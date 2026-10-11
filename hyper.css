@@ -1,0 +1,76 @@
+
+body {
+    margin: 0;
+    font-family: Arial;
+    background-color: lightgray;
+}
+
+
+header {
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+
+
+nav {
+    background-color: gray;
+    text-align: center;
+    padding: 15px;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    margin: 10px;
+}
+
+nav a:hover {
+    color: red;
+}
+
+.photo {
+    text-align: center;
+}
+
+.photo img {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+}
+
+
+section {
+    background-color: gray;
+    margin: 20px;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+
+h2 {
+    color: white;
+}
+
+h3 {
+    color: white;
+}
+
+
+p {
+    color: white;
+}
+
+
+li {
+    color: white;
+}
+
+
+footer {
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 15px;
+}
